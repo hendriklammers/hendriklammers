@@ -1,4 +1,1 @@
-### Hi there 👋
-
-I'm a frontend developer from The Netherlands, currently residing in Kuala Lumpur, Malaysia.  
-Passionate about creating great UX, learning new technologies, knowledge sharing and Vim.
+Hello! I'm a software developer that loves building beautiful and intuitive user interfaces. Born and raised in The Netherlands, can now be found enjoying durian in the city of Kuala Lumpur, Malaysia. Passionate about UI/UX design, experimenting with new technologies, knowledge sharing and Vim.
