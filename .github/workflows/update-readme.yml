@@ -1,0 +1,18 @@
+name: Update readme
+
+on:
+  push:
+    branches: main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - run: ./scripts/readme.sh
+
+      # Commit the updated readme file
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Automatic readme update
