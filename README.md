@@ -3,5 +3,4 @@ Hello! I'm a software developer that loves building beautiful and intuitive user
 
 
 ### Latest articles
-
 - [Change arrays by copy with ES2023](https://www.hendriklammers.com/articles/change-array-by-copy-with-es2023)
